@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+jinja2
+reportlab
+python-multipart
+nltk
+fuzzywuzzy
+python-Levenshtein
